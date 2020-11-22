@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Main-Class: WebsocketClient
+Class-Path: javax.json.bind-api-1.0.jar javax.json-1.1.4-module.jar tomc
+ at-juli-9.0.40.jar javax.websocket-client-api-1.1.jar javax.websocket-a
+ pi-1.1.jar johnzon-core-1.2.8.jar tomcat-juli-9.0.40.jar javax.json-api
+ -1.1.4.jar javax.json-1.1.4-module.jar javax.json.bind-api-1.0.jar java
+ x.websocket-api-1.1.jar javax.websocket-client-api-1.1.jar jsp-api.jar 
+ servlet-api.jar annotations-api.jar catalina-ant.jar catalina-ha.jar ca
+ talina-ssi.jar catalina-storeconfig.jar catalina-tribes.jar catalina.ja
+ r ecj-4.13.jar el-api.jar jasper-el.jar jasper.jar jaspic-api.jar tomca
+ t-api.jar tomcat-coyote.jar tomcat-dbcp.jar tomcat-jdbc.jar tomcat-jni.
+ jar tomcat-util-scan.jar tomcat-util.jar tomcat-websocket.jar websocket
+ -api.jar
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/out/production" />
+    <output-test url="file://$MODULE_DIR$/../out/websocket-server-demo/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="WebSocket-1.1" level="project" />
+    <orderEntry type="library" name="johnzon-core-1.2.8" level="project" />
+    <orderEntry type="library" name="json-processing-api-1.0" level="project" />
+    <orderEntry type="library" name="javax.json.bind-api-1.0" level="project" />
+    <orderEntry type="library" name="javax.json-1.1.4-module" level="project" />
+    <orderEntry type="library" name="tomcat-juli-9.0.40" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Tomcat 9.0.31" level="application_server_libraries" />
+  </component>
+</module>
