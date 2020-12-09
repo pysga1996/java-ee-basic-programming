@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default">
+        <processorPath>
+          <entry name="$PROJECT_DIR$/lib/lombok-1.18.12.jar" />
+        </processorPath>
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jax-ws-server" options="--add-exports java.xml/com.sun.org.apache.xml.internal.serialize=jax.ws.server" />
+    </option>
+  </component>
+</project>

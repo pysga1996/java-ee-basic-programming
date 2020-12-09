@@ -1,0 +1,1 @@
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Header/><S:Body><ns2:deleteResponse xmlns:ns2="http://tutorial"><return>true</return></ns2:deleteResponse></S:Body></S:Envelope>

@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="jax-ws-lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/webservice/apache-log4j-extras-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/FastInoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webservice/woodstox-core-asl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

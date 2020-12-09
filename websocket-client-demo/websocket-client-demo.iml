@@ -14,7 +14,7 @@
     <orderEntry type="library" name="json-processing-api-1.0" level="project" />
     <orderEntry type="library" name="tomcat-juli-9.0.40" level="project" />
     <orderEntry type="library" name="javax.json-1.1.4-module" level="project" />
-    <orderEntry type="library" name="Tomcat 9.0.31" level="application_server_libraries" />
     <orderEntry type="library" name="johnzon-core-1.2.8" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="TomEE 9.0.30" level="application_server_libraries" />
   </component>
 </module>
